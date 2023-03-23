@@ -51,7 +51,7 @@
     "minimatch": "3.0.4",
     "minimist": "1.2.0",
     "mocha": "cypress-io/mocha#58f6eac05e664fc6b69aa9fba70f1f6b5531a900",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "morgan": "1.9.1",
     "npm-install-version": "6.0.2",
     "parse-domain": "bahmutov/parse-domain#fb60bd4",
