@@ -158,7 +158,7 @@
     "ramda": "0.24.1",
     "request": "2.88.0",
     "request-promise": "4.2.4",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "shx": "0.3.2",
     "sinon": "7.3.2",
     "snap-shot-it": "7.9.1",
