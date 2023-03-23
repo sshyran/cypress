@@ -31,7 +31,7 @@
     "gravatar": "1.8.0",
     "human-interval": "0.1.6",
     "lodash": "4.17.15",
-    "markdown-it": "8.4.2",
+    "markdown-it": "12.3.2",
     "mobx": "5.11.0",
     "mobx-react": "5.4.3",
     "mobx-react-devtools": "6.1.1",
